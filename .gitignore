@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# TensorFlow / TensorBoard logs
+logs/
