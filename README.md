@@ -1,3 +1,5 @@
+<p align="right"><strong>English</strong> | <a href="./README.zh-CN.md">中文</a></p>
+
 <h1 align="center">💻 Andrew Ng · Coursera Lab Archive</h1>
 
 <p align="center"><em>—— Completed assignments from the Machine Learning & Deep Learning Specializations</em></p>
@@ -81,8 +83,8 @@
 2. [Regularization](./Deep%20Learning/Course%202%20--%20Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Lab2%20--%20Regularization/Regularization.ipynb)
 3. [Gradient Checking](./Deep%20Learning/Course%202%20--%20Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Lab3%20--%20Gradient%20Checking/Gradient_Checking.ipynb)
 
-### C3 · Structuring Machine Learning Projects — *not yet studied*
+### C3 · Structuring Machine Learning Projects — *Coming soon*
 
-### C4 · Convolutional Neural Networks — *not yet studied*
+### C4 · Convolutional Neural Networks — *Coming soon*
 
-### C5 · Sequence Models — *not yet studied*
+### C5 · Sequence Models — *Coming soon*

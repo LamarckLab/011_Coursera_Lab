@@ -1,0 +1,2 @@
+# 课程 notebook 属于学习/文档材料，不计入 GitHub 语言统计
+*.ipynb linguist-documentation
