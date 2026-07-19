@@ -3,6 +3,7 @@
 <h1 align="center">💻 Andrew Ng · Coursera Lab Archive</h1>
 
 <p align="center"><em>—— Completed assignments from the Machine Learning & Deep Learning Specializations</em></p>
+<p align="center"><em>—— 2025.01.09</em></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Author-Andrew%20Ng-blue?style=flat-square" />
